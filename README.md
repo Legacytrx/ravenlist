@@ -9,6 +9,7 @@ Each task should be an own issue. Just create it. The is a possibility to have a
   - [ ] Item2
   - [ ] Item3
   - [ ] Final Item
+
 This could show how the task is progressing.
 Comment can be used to show what is currently been done, links to what ever, contacts etc.
 
